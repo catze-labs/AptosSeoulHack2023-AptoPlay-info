@@ -12,4 +12,5 @@ Tutorial: https://aptoplay-web.vercel.app/tutorial <br/>
 aptoplay-core: https://github.com/catze-labs/aptoplay-core <br/>
 aptoplay-server: https://github.com/catze-labs/aptoplay-server <br/>
 aptoplay-web: https://github.com/catze-labs/aptoplay-web <br/>
+aptoplay-move: https://github.com/catze-labs/aptoplay-move <br/>
 aptoplay-unity: https://github.com/catze-labs/aptoplay-unity-public <br/>
