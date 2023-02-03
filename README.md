@@ -7,6 +7,7 @@
 ## This repository has everything you want to know about the AptoPlay<br/>
 Landing: https://aptoplay-web.vercel.app/ <br/>
 Tutorial: https://aptoplay-web.vercel.app/tutorial <br/>
+Pitch Deck: https://www.figma.com/proto/kcWGaC2PEzR72SsU60DsfS/%F0%9F%9F%A2-APTOPLAY?page-id=81%3A1298&node-id=186%3A1444 <br/>
 
 ### **Track:Gaming**<br/>
 aptoplay-core: https://github.com/catze-labs/aptoplay-core <br/>
