@@ -1,3 +1,6 @@
+> the 2023 Seoul Hack Winners 1st place in Gaming Track!<br />
+> [(Link)](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023) :partying_face:	:partying_face:	:partying_face:	
+
 # AptosSeoulHack2023-AptoPlay-info <br/>
 
 ![image](https://user-images.githubusercontent.com/65929678/216216243-440bcb5c-5052-4946-9cad-47a98842e363.png)
